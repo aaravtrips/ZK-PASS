@@ -12,6 +12,9 @@ Repository Structure
 
 The project is split into two main components:
 ZK-PASS/
+
 ├── backend/          # Node.js / Express server handling encrypted storage & verification
+
 ├── frontend/         # Client-side user interface, local encryption, and proof generation
+
 └── .gitignore        # Standard git ignore configurations
